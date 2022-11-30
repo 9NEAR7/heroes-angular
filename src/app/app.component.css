@@ -1,4 +1,8 @@
 /* AppComponent's private CSS styles */
+body {
+  background-image: url("https://wallpapers.com/images/hd/spider-man-into-the-spider-verse-pinkish-purple-background-t964nia7wgbz2cl3.jpg");
+}
+
 h1 {
     margin-bottom: 0;
   }
@@ -19,3 +23,4 @@ h1 {
   nav a:active {
     background-color: black;
   }
+
